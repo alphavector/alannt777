@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">404 README.md not found!</h1>
+<h1 align="center">:warning: 404 README.md not found! :warning:</h1>
