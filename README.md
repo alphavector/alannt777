@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">:warning: 404 README.md not found! :warning:</h1>
+<h1 align="center"><samp>:warning: 404 README.md not found! :warning:</samp></h1>
+
+[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alannt777&theme=blue-green)](https://github.com/alannt777)
